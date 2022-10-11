@@ -1,4 +1,4 @@
-[{"animals":
+{"animals":
 [
   {
     "name": "Apple",
@@ -21,4 +21,4 @@
     "AccountNumber": 5678005
   }
 ]
-}]
+}
